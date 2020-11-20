@@ -1,0 +1,11 @@
+
+
+
+ SOLUTION HISTORY INFORMATION FOR JOB: Project_hip.mntr                                                                                                                                                                                                                                                    
+ ANSYS RELEASE 18.1                     12:03:33    10/27/2020
+
+  LOAD   SUB-  NO.  NO.    TOTL  INCREMENT    TOTAL         VARIAB 1     VARIAB 2     VARIAB 3
+  STEP   STEP ATTMP ITER   ITER  TIME/LFACT   TIME/LFACT    MONITOR      MONITOR      MONITOR
+                                                             Wall         MxDs         MxPl
+
+     1      1    1     3      3     1.0000       1.0000       3.9438      -7.7207      0.78886E-30

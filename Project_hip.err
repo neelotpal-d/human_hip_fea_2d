@@ -1,0 +1,238 @@
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       23:48:40
+
+ *** ERROR ***                           CP =      15.953   TIME= 00:05:17
+ Keypoint 1 belongs to line 1 and cannot be moved.                       
+
+ *** ERROR ***                           CP =      16.062   TIME= 00:05:43
+ Keypoint 9 belongs to line 6 and cannot be moved.                       
+
+ *** ERROR ***                           CP =      18.734   TIME= 00:08:33
+ Cannot create line between coincident keypoints 12 and 20.              
+
+ *** ERROR ***                           CP =      19.312   TIME= 00:09:30
+ Has self-intersecting boundary.                                         
+  Can not create the prism volume.                                       
+
+ *** WARNING ***                         CP =      24.438   TIME= 00:16:57
+ Output entity is identical to the first input entity for ASBA command.  
+                                                                         
+ No new entities created.                                                
+
+ *** WARNING ***                         CP =      24.781   TIME= 00:17:20
+ Output entity is identical to the first input entity for ASBA command.  
+                                                                         
+ No new entities created.                                                
+
+ *** ERROR ***                           CP =      33.016   TIME= 00:37:31
+ Boolean operation failed.  Try adjusting the tolerance value on the     
+ BTOL command to some fraction of the minimum keypoint distance.Model    
+ Size (current problem) 4.123106e+001, current BTOL setting              
+ 1.000000e-005, minimum KPT distance 1.000000e+001.                      
+
+ *** ERROR ***                           CP =      33.828   TIME= 00:38:31
+ Boolean operation failed.  Try adjusting the tolerance value on the     
+ BTOL command to some fraction of the minimum keypoint distance.Model    
+ Size (current problem) 5.000000e+001, current BTOL setting              
+ 1.000000e-005, minimum KPT distance 1.000000e+001.                      
+
+ *** ERROR ***                           CP =      37.016   TIME= 00:40:30
+ Line 3 contains keypoint 1.                                             
+
+ *** WARNING ***                         CP =      39.641   TIME= 00:41:21
+ The intersection is at the end of the line.  A keypoint cannot be       
+ created there.                                                          
+
+ *** ERROR ***                           CP =      39.656   TIME= 00:41:21
+ Unable to create straight line.                                         
+
+ *** ERROR ***                           CP =      39.953   TIME= 00:41:49
+ Line 4 is attached to 1 area(s) and cannot be changed.                  
+
+ *** ERROR ***                           CP =      40.031   TIME= 00:41:51
+ Line 6 is attached to 1 area(s) and cannot be changed.                  
+
+ *** ERROR ***                           CP =      40.094   TIME= 00:42:00
+ Line 6 is attached to 1 area(s) and cannot be changed.                  
+
+ *** ERROR ***                           CP =      40.469   TIME= 00:42:11
+ Line 6 is attached to 1 area(s) and cannot be changed.                  
+
+ *** ERROR ***                           CP =      40.641   TIME= 00:42:24
+ Line 7 is attached to 1 area(s) and cannot be changed.                  
+
+ *** ERROR ***                           CP =      42.156   TIME= 00:44:31
+ Line 3 contains keypoint 1.                                             
+
+ *** WARNING ***                         CP =      42.578   TIME= 00:45:40
+ The intersection is at the end of the line.  A keypoint cannot be       
+ created there.                                                          
+
+ *** ERROR ***                           CP =      42.594   TIME= 00:45:40
+ Unable to create straight line.                                         
+
+ *** ERROR ***                           CP =      48.375   TIME= 00:53:01
+ Line 3 contains keypoint 1.                                             
+
+ *** WARNING ***                         CP =      60.781   TIME= 01:17:44
+ Output entity is identical to the first input entity for ASBA command.  
+                                                                         
+ No new entities created.                                                
+
+ *** WARNING ***                         CP =      61.375   TIME= 01:18:07
+ Output entity is identical to the first input entity for ASBA command.  
+                                                                         
+ No new entities created.                                                
+
+ *** ERROR ***                           CP =      76.469   TIME= 01:39:53
+ Keypoint 3 is referenced by only one line.  Improperly connected line   
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      76.594   TIME= 01:40:15
+ Keypoint 3 is referenced by only one line.  Improperly connected line   
+ set for AL command.                                                     
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       15:48:23
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       2.625   TIME= 15:59:59
+ Some entities requested in the *VGET were undefined.                    
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =       2.641   TIME= 15:59:59
+ Some entities requested in the *VGET were undefined.                    
+
+ *** WARNING ***                         CP =       2.641   TIME= 15:59:59
+ Contact Pair creation requires that part of the model be meshed.        
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       23:02:19
+
+ *** ERROR ***                           CP =      15.484   TIME= 23:48:32
+ Keypoint 13 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      15.922   TIME= 23:49:00
+ Keypoint 13 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      16.125   TIME= 23:49:30
+ Keypoint 13 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      17.500   TIME= 23:51:42
+ Keypoint 17 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      18.641   TIME= 23:53:02
+ Keypoint 13 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      18.750   TIME= 23:53:14
+ Keypoint 17 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      19.281   TIME= 23:53:38
+ Cannot create line between coincident keypoints 23 and 13.              
+
+ *** ERROR ***                           CP =      19.578   TIME= 23:53:58
+ Line 12 is attached to 1 area(s) and cannot be changed.                 
+
+ *** ERROR ***                           CP =      19.688   TIME= 23:54:12
+ Line 28 is attached to 1 area(s) and cannot be changed.                 
+
+ *** ERROR ***                           CP =      20.031   TIME= 23:54:29
+ Line 28 is attached to 1 area(s) and cannot be changed.                 
+
+ *** ERROR ***                           CP =      21.359   TIME= 23:55:51
+ Keypoint 17 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      21.516   TIME= 23:56:14
+ Keypoint 17 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      21.766   TIME= 23:57:12
+ Keypoint 17 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      28.234   TIME= 00:18:28
+ Keypoint 17 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      32.812   TIME= 00:23:47
+ Keypoint 17 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      34.250   TIME= 00:25:04
+ Keypoint 21 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      35.203   TIME= 00:26:48
+ Keypoint 21 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+
+ *** ERROR ***                           CP =      36.672   TIME= 00:28:49
+ Keypoint 13 is referenced by only one line.  Improperly connected line  
+ set for AL command.                                                     
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       17:24:15
+
+ *** ERROR ***                           CP =       3.875   TIME= 17:25:56
+ This function requires defined volumes.                                 
+  No volumes are currently defined.                                      
+
+ *** WARNING ***                         CP =       5.969   TIME= 17:26:40
+ Some of the requested areas to be subtracted were also included in the  
+ selected set to be operated on.  These areas have been removed from     
+ the area to be operated on list.                                        
+
+ *** ERROR ***                           CP =      18.578   TIME= 17:34:58
+ Keypoint 60 is attached to line 33, which is attached to                
+  an entity that is not to be moved.  Command AGEN unable to             
+  be executed with the move option and this set of entities.             
+
+ *** ERROR ***                           CP =      19.875   TIME= 17:35:55
+ Keypoint 60 belongs to 3 line(s) and cannot be altered.                 
+
+ *** ERROR ***                           CP =      20.109   TIME= 17:36:11
+ Line 3 is attached to 2 area(s) and cannot be changed.                  
+
+ *** ERROR ***                           CP =      20.312   TIME= 17:36:29
+ Keypoint 60 belongs to 3 line(s) and cannot be altered.                 
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       17:40:06
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       00:55:49
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      10.219   TIME= 01:31:24
+ Some entities requested in the *VGET were undefined.                    
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      10.234   TIME= 01:31:24
+ Some entities requested in the *VGET were undefined.                    
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      10.969   TIME= 01:31:27
+ Some entities requested in the *VGET were undefined.                    
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      10.969   TIME= 01:31:27
+ Some entities requested in the *VGET were undefined.                    
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      10.969   TIME= 01:31:27
+ Some entities requested in the *VGET were undefined.                    
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      10.969   TIME= 01:31:27
+ Some entities requested in the *VGET were undefined.                    
+
+ *** WARNING ***                         CP =      28.016   TIME= 01:35:02
+ The program chosen initial timestep/load-factor is arbitrary.  It is    
+ necessary for the user to supply a suitable initial                     
+ timestep/load-factor through the NSUB or DELTIM command for             
+ convergence and overall efficiency.                                     
+
+ *** WARNING ***                         CP =     101.094   TIME= 01:51:43
+ Only one substep defined - operation terminated.                        
+
+ *** WARNING ***                         CP =     102.531   TIME= 01:52:11
+ Only one substep defined - operation terminated.                        
+
+ *** WARNING ***                         CP =     103.984   TIME= 01:52:46
+ Only one substep defined - operation terminated.                        
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       16:20:11
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       11:38:32
+
+ *** ERROR ***                           CP =       2.500   TIME= 11:39:57
+ There are no nodes defined.                                             
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       11:41:18
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       11:47:03
+/COM,ANSYS RELEASE Release 18.1      BUILD 18.1      UP20170403       11:47:15
